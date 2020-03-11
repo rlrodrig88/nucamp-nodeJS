@@ -1,0 +1,14 @@
+{
+  "name": "5-NodeJS-Express-MongoDB",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rlrodrig88/nucamp-nodeJS.git",
+  "author": "Ronnie <rlrodrig88@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node -r esm app.js"
+  },
+  "dependencies": {
+    "esm": "^3.2.25"
+  }
+}
